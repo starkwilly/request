@@ -1,6 +1,6 @@
 import xml.etree.ElementTree as ET
 
-# Assuming you already have the 'response_xml' from the previous example also living ins this repository
+# Assuming you already have the 'response_xml' from the previous example also living in this repository
 
 # Parse the XML response
 root = ET.fromstring(response_xml)
